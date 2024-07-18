@@ -1,6 +1,3 @@
-Sure! Here's a README file for your SMS Spam Detector project:
-
----
 
 # SMS Spam Detector
 
