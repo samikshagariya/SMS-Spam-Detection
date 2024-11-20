@@ -29,7 +29,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ParthYuki/SMS-Spam-Detector.git
+    git clone https://github.com/samikshagariya/SMS-Spam-Detector.git
     cd SMS-Spam-Detector
     ```
 
